@@ -4,7 +4,7 @@
 ![Version](https://img.shields.io/badge/Version-1.0.0-blue)
 ![Technology](https://img.shields.io/badge/Stack-SQL%20Server%20%7C%20SSAS%20%7C%20Excel-orange)
 
-> ### 🎓 Información Académica / Créditos
+> ### 🎓 Información Académica
 > * **Institución:** [INSTITUTO POLITÉCNICO NACIONAL]
 > * **Carrera:** [ESCUELA SUPERIOR DE CÓMPUTO]
 > * **Materia:** [BASE DE DATOS]
