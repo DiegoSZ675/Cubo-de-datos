@@ -6,15 +6,10 @@
 
 > ### 🎓 Información Académica / Créditos
 > * **Institución:** [INSTITUTO POLITÉCNICO NACIONAL]
-> * 
 > * **Carrera:** [ESCUELA SUPERIOR DE CÓMPUTO]
-> * 
 > * **Materia:** [BASE DE DATOS]
-> * 
 > * **Docente:** [GABRIEL HURTADO AVILÉS]
-> * 
 > * **Semestre/Grupo:** [3CV5]
-> * 
 > * **Equipo de Desarrollo:**
 >     * 👤 [Rodriguez Salcedo Liam Ariel]
 >     * 👤 [Sánchez Zenteno Diego Alejandro]
