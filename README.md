@@ -5,14 +5,14 @@
 ![Technology](https://img.shields.io/badge/Stack-SQL%20Server%20%7C%20SSAS%20%7C%20Excel-orange)
 
 > ### 🎓 Información Académica
-> * **Institución:** [INSTITUTO POLITÉCNICO NACIONAL]
-> * **Carrera:** [ESCUELA SUPERIOR DE CÓMPUTO]
-> * **Materia:** [BASE DE DATOS]
-> * **Docente:** [GABRIEL HURTADO AVILÉS]
-> * **Semestre/Grupo:** [3CV5]
-> * **Equipo de Desarrollo:**
->     * 👤 [Rodriguez Salcedo Liam Ariel]
->     * 👤 [Sánchez Zenteno Diego Alejandro]
+> * **Institución:** INSTITUTO POLITÉCNICO NACIONAL
+> * **Carrera:** ESCUELA SUPERIOR DE CÓMPUTO
+> * **Materia:** BASE DE DATOS
+> * **Docente:** GABRIEL HURTADO AVILÉS
+> * **Semestre/Grupo:** 3CV5
+> * **Equipo:**
+>     * 👤 Rodriguez Salcedo Liam Ariel
+>     * 👤 Sánchez Zenteno Diego Alejandro
 
 ---
 
