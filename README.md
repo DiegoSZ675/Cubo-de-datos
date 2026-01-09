@@ -107,7 +107,7 @@ Sigue estos pasos para replicar el entorno de desarrollo:
 
 Paso 1: Base de Datos
 1. Abre SSMS y conecta a tu instancia local.
-2. Abre el archivo /Database/script.sql
+2. Abre el archivo /Database/DDL.sql
 3. Ejecuta el script (F5). Esto creará la BD y poblará las tablas con 10,000 registros.
 
 Paso 2: Servidor de Análisis
