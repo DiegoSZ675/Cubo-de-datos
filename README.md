@@ -129,7 +129,12 @@ Paso 3: Dashboard
 
 ## 📂 Estructura del Repositorio
 Cubo-de-Datos/
+
 │
+
 ├── 📁 Database/           # Scripts T-SQL de generación de datos
+
 ├── 📁 SSAS_Project/       # Solución completa de Visual Studio
+
 ├── 📁 Dashboards/         # Reporte final en Excel (.xlsx)
+
