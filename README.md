@@ -5,15 +5,19 @@
 ![Technology](https://img.shields.io/badge/Stack-SQL%20Server%20%7C%20SSAS%20%7C%20Excel-orange)
 
 > ### 🎓 Información Académica / Créditos
-> * **Institución:** [NOMBRE DE TU ESCUELA/UNIVERSIDAD]
-> * **Carrera:** [TU CARRERA O INGENIERÍA]
-> * **Materia:** [NOMBRE DE LA MATERIA]
-> * **Docente:** [NOMBRE DEL PROFESOR]
-> * **Semestre/Grupo:** [TU GRUPO]
+> * **Institución:** [INSTITUTO POLITÉCNICO NACIONAL]
+> * 
+> * **Carrera:** [ESCUELA SUPERIOR DE CÓMPUTO]
+> * 
+> * **Materia:** [BASE DE DATOS]
+> * 
+> * **Docente:** [GABRIEL HURTADO AVILÉS]
+> * 
+> * **Semestre/Grupo:** [3CV5]
+> * 
 > * **Equipo de Desarrollo:**
->     * 👤 [Tu Nombre Completo]
->     * 👤 [Nombre del Compañero 1]
->     * 👤 [Nombre del Compañero 2]
+>     * 👤 [Rodriguez Salcedo Liam Ariel]
+>     * 👤 [Sánchez Zenteno Diego Alejandro]
 
 ---
 
