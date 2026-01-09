@@ -107,18 +107,18 @@ Sigue estos pasos para replicar el entorno de desarrollo:
 
 Paso 1: Base de Datos
 1. Abre SSMS y conecta a tu instancia local.
-2. Abre el archivo /Database/script_generador_10k.sql
+2. Abre el archivo /Database/script.sql
 3. Ejecuta el script (F5). Esto creará la BD y poblará las tablas con 10,000 registros.
 
 Paso 2: Servidor de Análisis
-1. Abre el proyecto /SSAS_Project/CuboVideojuego_SQL.sln en Visual Studio.
+1. Abre el proyecto /SSAS_Project/CuboVideojuego_SQL.slnx en Visual Studio.
 2. Abre el archivo Videojuego DW.ds (Data Source).
 3. Edita la Información de Suplantación: Selecciona "Usar usuario y contraseña de Windows" e ingresa tus credenciales de Administrador.
 4. Menú Proyecto -> Implementar (Deploy).
 5. Menú Proyecto -> Procesar (Process) -> Ejecutar.
 
 Paso 3: Dashboard
-1. Abre el archivo /Dashboards/Reporte_Interactivo.xlsx.
+1. Abre el archivo /Excel/tablaDinamica(cuboDeDatos).xlsx.
 2. Ve a la pestaña Datos -> Actualizar todo.
 3. ¡Listo! El reporte ahora muestra datos en tiempo real desde tu PC.
 
