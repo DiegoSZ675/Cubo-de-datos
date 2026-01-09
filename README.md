@@ -66,26 +66,34 @@ graph LR
 Se implementaron consultas avanzadas utilizando el lenguaje MDX (Multidimensional Expressions) para demostrar la potencia del cubo:
 1. 🔼 Roll-Up (Agregación)
 Ver el total de XP agrupada por Año.
+```
   SELECT { [Measures].[XP Ganada] } ON COLUMNS,
        { [Dim Tiempo].[Anio].MEMBERS } ON ROWS
 FROM [Videojuego DW]
+```
 2. 🔽 Drill-Down (Desglose)
 Profundizar en los meses del año 2024.
+```
   SELECT { [Measures].[XP Ganada] } ON COLUMNS,
        { [Dim Tiempo].[Mes].MEMBERS } ON ROWS
 FROM [Videojuego DW]
 WHERE ( [Dim Tiempo].[Anio].&[2024] )
+```
 3. 🎲 Dice & Slice (Corte Multidimensional)
 Filtrar: Clase 'Guerrero' + Dificultad 'Alta'.
+```
   SELECT { [Measures].[Oro Ganado] } ON COLUMNS,
        { [Dim Personaje].[Clase].&[Guerrero] } ON ROWS
 FROM [Videojuego DW]
 WHERE ( [Dim Evento].[Dificultad].&[Alta] )
+```
 4. 🏆 Ranking (Top Count)
 Los 5 jugadores más valiosos (MVP) por XP.
+```
   SELECT { [Measures].[XP Ganada] } ON COLUMNS,
        TOPCOUNT( [Dim Jugador].[Nombre Usuario].MEMBERS, 5, [Measures].[XP Ganada] ) ON ROWS
 FROM [Videojuego DW]
+```
 ## 🛠️ Stack Tecnológico & Requisitos
 Componente,Tecnología,Rol en el proyecto
 Base de Datos,SQL Server 2022 Developer,Almacén de datos (DW)
