@@ -136,5 +136,5 @@ Cubo-de-Datos/
 
 ├── 📁 SSAS_Project/       # Solución completa de Visual Studio
 
-├── 📁 Dashboards/         # Reporte final en Excel (.xlsx)
+├── 📁 Excel/         # Reporte final en Excel (.xlsx)
 
