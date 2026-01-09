@@ -95,12 +95,13 @@ Los 5 jugadores más valiosos (MVP) por XP.
 FROM [Videojuego DW]
 ```
 ## 🛠️ Stack Tecnológico & Requisitos
-Componente,Tecnología,Rol en el proyecto
-Base de Datos,SQL Server 2022 Developer,Almacén de datos (DW)
-IDE,Visual Studio 2022,Diseño y modelado del cubo
-Extensión,SSAS Projects Extension,Plugin para modelos multidimensionales
-Gestión,SSMS (Management Studio),Ejecución de scripts y consultas MDX
-Visualización,Microsoft Excel 365,Dashboard interactivo y tablas dinámicas
+| Componente | Tecnología | Rol en el proyecto |
+| :--- | :--- | :--- |
+| **Base de Datos** | SQL Server 2022 Developer | Almacén de datos (DW) |
+| **IDE** | Visual Studio 2022 | Diseño y modelado del cubo |
+| **Extensión** | SSAS Projects Extension | Plugin para modelos multidimensionales |
+| **Gestión** | SSMS (Management Studio) | Ejecución de scripts y consultas MDX |
+| **Visualización** | Microsoft Excel 365 | Dashboard interactivo y tablas dinámicas |
 ## ⚙️ Guía de Instalación y Ejecución
 Sigue estos pasos para replicar el entorno de desarrollo:
 
